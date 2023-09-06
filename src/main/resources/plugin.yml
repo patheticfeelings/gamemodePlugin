@@ -1,0 +1,5 @@
+name: Gamemode
+version: '${project.version}'
+main: org.tomas.Main
+commands:
+ gm:
