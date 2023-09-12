@@ -1,3 +1,2 @@
-# gamemodePlugin
-Um simples plugin de gamemode em Java e Maven.
+# Plugin de gamemode bem guri feito em java
 
